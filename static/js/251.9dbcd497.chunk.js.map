@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/251.9dbcd497.chunk.js","mappings":"iMAOA,MAPA,WACI,OACI,2BACI","sources":["pages/ProductsPage/ProductsPage.jsx"],"sourcesContent":["function ProductsPage() {\n    return (\n        <main>\n            <h1>Products Page</h1>\n        </main>\n    )\n };\nexport default ProductsPage;"],"names":[],"sourceRoot":""}
