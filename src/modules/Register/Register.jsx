@@ -1,6 +1,6 @@
 import { useDispatch } from "react-redux";
 
-import { signup } from "shared/services/API/auth";
+import { signup } from "../../redux/auth/auth-operations";
 import RegisterForm from "./RegisterForm";
 
 function Register() {
